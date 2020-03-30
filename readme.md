@@ -1,3 +1,6 @@
+
+<h2>Hello Laravel</h2>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
